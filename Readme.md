@@ -15,6 +15,11 @@ detected.
 Hystrix is Netflix's implementation of the circuit breaker pattern.  Spring Boot
 has brought this library into the Spring ecosystem.
 
+Add the circuit breaker pattern to the application by using Spring Boot's implementation of Hystrix.  The following post will give you more information
+on how to add Hystrix -
+
+https://spring.io/guides/gs/circuit-breaker/
+
 # More Resources
 [Spring Boot and Hystrix](https://spring.io/guides/gs/circuit-breaker/)
 
