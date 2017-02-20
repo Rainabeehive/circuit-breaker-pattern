@@ -17,4 +17,5 @@ has brought this library into the Spring ecosystem.
 
 # More Resources
 [Spring Boot and Hystrix](https://spring.io/guides/gs/circuit-breaker/)
+
 [Circuit Breaker by Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
